@@ -1,5 +1,5 @@
 # Web-server
-Implementación de un web server usando sockets en Python <br> <br>
+Implementación de un web server usando sockets en Python <br>
 
 <b>Nota importante:</b><br><br>
 El primer if que valida si la lista es diferente de [''] fue agregado,<br>
