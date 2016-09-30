@@ -1,5 +1,5 @@
 # Web-server
-Implementación de un web server usando sockets en Python <br>
+Implementación de un web server usando sockets en Python <br> <br>
 <b>Integrantes:</b><br>
 <UL type=disk>
 <LI>Joan Manuel Tovar Guzmán 1423124
